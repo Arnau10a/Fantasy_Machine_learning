@@ -1,5 +1,7 @@
 # Fantasy Machine Learning
 
+> 🤖 Agent d'IA que gestiona un equip de fantasy football utilitzant Deep Q-Learning per optimitzar les transferències i maximitzar els punts.
+
 Aquest projecte implementa un agent d'aprenentatge per reforç (Reinforcement Learning) que aprèn a gestionar un equip de fantasy football. L'agent pren decisions sobre compres i vendes de jugadors per maximitzar els punts i el valor de l'equip al llarg d'una temporada.
 
 ## Descripció
